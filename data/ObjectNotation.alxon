@@ -1,0 +1,23 @@
+{
+	"Hello" = "Woaaaw LOL einfach derBossOha" {
+		"Main" = "0"
+		"Wow" = "123456789"
+		"xD" = "Wow"
+		"Hell0" = "Wow" {
+			#Hallo Ich bin ein Comment
+			"Lol" = "MainFunction"
+		}
+	}
+	"Hello World" = "Hello World" {
+		#Hallo Ich bin ein Comment
+		"Lol" = "MainFunction"
+	}
+	"Lol0" = "MainFunction0" {
+		{
+			"Lol1" = "MainFunction1"
+		}
+		{
+			"Lol2" = "MainFunction2"
+		}
+	}
+}
